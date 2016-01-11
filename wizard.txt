@@ -1,0 +1,5 @@
+name="Link - INationKodiWizard 15.2 full loaded setup"
+url="https://ia601506.us.archive.org/25/items/WiFli_Kodi/idroidnation111.zip"
+img="https://ia601506.us.archive.org/25/items/WiFli_Kodi/I-nationKodiWizard.png"
+fanart="https://ia601506.us.archive.org/25/items/WiFli_Kodi/I-nationKodiWizard.png"
+description="INationKodiWizard Fully Loaded Set-up"
